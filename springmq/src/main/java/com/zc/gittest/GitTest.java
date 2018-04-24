@@ -4,4 +4,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("test change git");
     }
+    public static void newBranch(String[] args) {
+        System.out.println("new branch test");
+    }
 }
